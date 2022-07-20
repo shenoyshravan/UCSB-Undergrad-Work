@@ -1,4 +1,4 @@
-# Student(s): (Ning Qi & Sharvan)
+# Student(s): (Ning Qi & Shravan Shenoy)
 
 
 def notStringContainingR(word):
